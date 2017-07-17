@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Ivica Sapina",
+        "url": "https://google.com"
+    },
+    "maintainers": [
+        {
+            "name": "Ivica Sapina",
+            "email": "ivica.moke@gmail.com",
+            "url": "http://google.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ivicasapina/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/ivicasapina/jquery.linkIt",
+    "docs": "https://github.com/ivicasapina/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=2.0"
+    }
+}
